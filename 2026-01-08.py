@@ -17,8 +17,8 @@
 
 
 #2338번
-A = input()
-B = A[-1]
+A = int(input())
+B = int(input())
 print(A+B)
 print(A-B)
 print(A*B)
