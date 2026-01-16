@@ -1,0 +1,8 @@
+{
+  "service_account_path": "C:/Users/suak0/Downloads/Quick Share/fluent-cable-478615-b2-f9f4cba6a7b1.json",
+  "project_id": "fluent-cable-478615-b2",
+  "location": "asia-northeast1",
+  "model": "gemini-3.0-flash-preview",
+  "source_lang": "자동 감지",
+  "target_lang": "한국어"
+}
